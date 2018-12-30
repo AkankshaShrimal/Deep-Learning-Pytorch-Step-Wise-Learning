@@ -5,7 +5,7 @@ stepwise Learning Pytorch
 
 |S.NO|                               TOPICS                                                 | PROJECT NAME      |
 |----|--------------------------------------------------------------------------------------|-------------------|
-|01. |Implementing **Gradient Descent** over a set of random data          |1_GradientDescent       |
+|01. |Implementing **Gradient Descent** over a set of random data          |1_GradientDescent{https://github.com/AkankshaShrimal/Pytorch-Learning/blob/master/1_GradientDescent.ipynb}       |
 |02. |Simple Neural Network and common functions like **tensor.view() tensor.reshape()  tensor.shape tensor.rand**      |2_Simple Neural Network and Random Functions     |                                          
 |03. |Creating **Multi-Layer Neural Network** and converting **numpy array to tensors**     |3_Multi Layer Neural Networks & numpy to torch   |
 |04. | **Digit Classification** dataset using softmax and matrix multiplication(NO TRAINING) |4_Digit Classification with Softmax (NO TRAINING)  |
