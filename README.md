@@ -15,3 +15,5 @@ stepwise Learning Pytorch
 |08. |Training neural network to classify **Fashion-MNIST**      | [8_Classifying Fashion-MNIST](https://github.com/AkankshaShrimal/Pytorch-Learning/blob/master/8_Classifying%20Fashion-MNIST.ipynb)|
 |09. |Test over **Test data** , **overfitting**, regularization using **Dropout** and **Accuracy Calculation** |[9_Fashion MNIST - INFERENCE AND VALIDATION](https://github.com/AkankshaShrimal/Pytorch-Learning/blob/master/9_Fashion%20MNIST%20-%20INFERENCE%20AND%20VALIDATION.ipynb)    |
 |10. |Saving models using **state_dict** and training later on |[_10_Saving and Loading Models](https://github.com/AkankshaShrimal/Pytorch-Learning/tree/master/_10_Saving%20and%20Loading%20models)    |
+|10. |Saving models using **state_dict** and training later on |[_10_Saving and Loading Models](https://github.com/AkankshaShrimal/Pytorch-Learning/tree/master/_10_Saving%20and%20Loading%20models)    |
+|10. |Saving models using **state_dict** and training later on |[_10_Saving and Loading Models](https://github.com/AkankshaShrimal/Pytorch-Learning/tree/master/_10_Saving%20and%20Loading%20models)    |
