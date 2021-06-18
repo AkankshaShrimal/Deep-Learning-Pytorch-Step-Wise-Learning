@@ -1,7 +1,15 @@
-# Pytorch-Learning
-stepwise Learning Pytorch
+# Deep-Learning-Tutorial 
+It covers Assignments done in Deep Learning Course in [Indraprastha Institute of Information Technology, Delhi (IIITD)](https://www.iiitd.ac.in/) and Udacity NanoDegree [Intro to Deep Learning uisng Pytorch](https://www.udacity.com/course/deep-learning-pytorch--ud188). 
 
-## Table Of Contents
+## Table Of Contents of Deep Learning Assignments
+| S.NO     | TOPICS  | PROJECT  NAME    | 
+| :-----------------------------------------|    :-----------------------------------:   |  ---: | 
+| 01.     |**PTA for AND,OR,NOT and XOR** and **Madeline Implementation** from scratch | [Implementing PTA and Madeline](IIIT_Delhi_assignments/001_Implementing_Perceptron_Training_algorithm_and_Madeline_algorithm/)  | 
+| 02.     | From **scratch** implementation of **Back Propagation** with optimizers **Momentum, NAG, AdaGrad, RMSProp, Adam** and initializations **He, Xavier** and Regularization using **L1, L2 and Dropout**. No Deep Learning library used.| [Backpropagation Optimizers Regularization from scratch](IIIT_Delhi_assignments/002_Backpropagation_optimizers_and_regularization_from_scratch/)  | 
+| 03.     |**CNN** Implementation | [Convolutional Neural Networks](IIIT_Delhi_assignments/003_Convolutional_Neural_networks/)  | 
+| 04.     | Implemented Papers [**Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**](https://arxiv.org/pdf/1502.03044.pdf) and [**Interactive Attention Networks for Aspect-Level Sentiment Classification**](https://arxiv.org/pdf/1709.00893.pdf)| [Attention models](IIIT_Delhi_assignments/004_Attention_models/)  | 
+
+## Table Of Contents of Udacity Nanodegree course
 
 |S.NO|                               TOPICS                                                 | PROJECT NAME      |
 |----|--------------------------------------------------------------------------------------|-------------------|
